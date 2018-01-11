@@ -2,11 +2,14 @@
 
 ## Data Science
 [Compilado interessante](https://github.com/leportella/datascience-pizza/blob/master/blogs-jornais.md)
+
 [DS Brigade, no Medium](https://medium.com/data-science-brigade)
+
 [Artigo interessante (um pouco datado) da Pew](http://www.pewinternet.org/2012/07/20/the-future-of-big-data/)
 
 ## Machine Learning
 [Regarding #MachineLearning and interpretability](https://twitter.com/randal_olson/status/949470532923097094)
+
 [Machine Learning com tutoriais](https://matheusfacure.github.io/tutoriais/)
 
 ## Security
@@ -17,6 +20,7 @@
 
 ## Python
 [Ptyhon e programação funcional](http://coconut-lang.org/)
+
 [Melhorando OCR](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)
 
 ## Pdfs
@@ -32,6 +36,7 @@
 
 ## Fake news
 [A ciência de detectar FakeNews](https://medium.com/data-science-brigade/a-ci%C3%AAncia-da-detec%C3%A7%C3%A3o-de-fake-news-d4faef2281aa)
+
 [She Warned of ‘Peer-to-Peer Misinformation.’ Congress Listened.](https://www.nytimes.com/2017/11/12/technology/social-media-disinformation.html)
 
 ## Brasil
