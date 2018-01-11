@@ -42,9 +42,15 @@
 
 ## O que acontece nas nossas cabeças
 [A infelicidade dos dias de hoje](https://papodehomem.com.br/estamos-viciados-em-ser-infelizes)
+
 [O controle mental das techs](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention/up-next?language=pt-br#t-1006228)
+
 [Não larga do celular?](https://www.nytimes.com/2015/12/06/technology/personaltech/cant-put-down-your-device-thats-by-design.html)
+
 [Apps viciantes e sua ciência](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
+
 [Corrida pela sua atenção](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
+
 [Como as redes sociais são construidas para prender sua atenção](https://www.vice.com/en_au/article/vv5jkb/the-secret-ways-social-media-is-built-for-addiction)
+
 [Machine learning está matando as timelines](http://mbeck.com.br/blog/papo/machine-learning-arruinando-timelines)
