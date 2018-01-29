@@ -30,6 +30,7 @@
 
 ## FB
 [FB e a remoção de posts por país](https://twitter.com/conradhackett/status/942646010085543936)
+[Et tu, Sean Parker?](https://www.axios.com/sean-parker-facebook-was-designed-to-exploit-human-vulnerability-1513306782-6d18fa32-5438-4e60-af71-13d126b58e41.html)
 
 ## Twitter
 [Análise de perfil de Twitter](https://accountanalysis.lucahammer.com/)
