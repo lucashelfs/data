@@ -34,6 +34,7 @@
 
 ## Twitter
 [Análise de perfil de Twitter](https://accountanalysis.lucahammer.com/)
+[Bots, bots everywhere](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
 
 ## Fake news
 [A ciência de detectar FakeNews](https://medium.com/data-science-brigade/a-ci%C3%AAncia-da-detec%C3%A7%C3%A3o-de-fake-news-d4faef2281aa)
@@ -61,3 +62,5 @@
 [Como as redes sociais são construidas para prender sua atenção](https://www.vice.com/en_au/article/vv5jkb/the-secret-ways-social-media-is-built-for-addiction)
 
 [Machine learning está matando as timelines](http://mbeck.com.br/blog/papo/machine-learning-arruinando-timelines)
+
+[Teste se você está viciado em internet](http://www.dependenciadeinternet.com.br/teste.php)
