@@ -44,6 +44,7 @@
 ## Brasil
 [Computational propaganda in Brazil](http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/06/Comprop-Brazil-1.pdf)
 [Leis são remédios para fake news?](http://epoca.globo.com/politica/noticia/2018/01/leis-nao-sao-remedio-eficaz-para-fake-news.html)
+[Óbitos em SP](https://aquare.la/resultados-pitch-gov-sp-analise-dos-registros-de-obito-no-estado-de-sao-paulo/)
 
 ## Pesquisas sobre a web
 [Pew Internet, sempre com pesquisas interessantes](http://www.pewinternet.org) 
