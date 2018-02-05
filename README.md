@@ -65,3 +65,5 @@
 [Machine learning está matando as timelines](http://mbeck.com.br/blog/papo/machine-learning-arruinando-timelines)
 
 [Teste se você está viciado em internet](http://www.dependenciadeinternet.com.br/teste.php)
+
+[Uso de internet nos EUA](https://flowingdata.com/projects/2015/timeuse-simulation/)
