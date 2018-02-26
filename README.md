@@ -26,14 +26,21 @@
 ## Pdfs
 [Dicas para PDFs](http://jonathansoma.com/lede/foundations-2017/classes/dealing-with-pdfs/tools-and-tips/)
 
+## Plot
+[Ferramenta básica de plotar](https://www.meta-chart.com/pie#/data)
+
 # Society // Trends
 
 ## FB
 [FB e a remoção de posts por país](https://twitter.com/conradhackett/status/942646010085543936)
+
 [Et tu, Sean Parker?](https://www.axios.com/sean-parker-facebook-was-designed-to-exploit-human-vulnerability-1513306782-6d18fa32-5438-4e60-af71-13d126b58e41.html)
+
+[E esses testes de Feice aí, hein?](http://www.bbc.com/portuguese/salasocial-43106323)
 
 ## Twitter
 [Análise de perfil de Twitter](https://accountanalysis.lucahammer.com/)
+
 [Bots, bots everywhere](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
 
 ## Fake news
@@ -43,7 +50,9 @@
 
 ## Brasil
 [Computational propaganda in Brazil](http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/06/Comprop-Brazil-1.pdf)
+
 [Leis são remédios para fake news?](http://epoca.globo.com/politica/noticia/2018/01/leis-nao-sao-remedio-eficaz-para-fake-news.html)
+
 [Óbitos em SP](https://aquare.la/resultados-pitch-gov-sp-analise-dos-registros-de-obito-no-estado-de-sao-paulo/)
 
 ## Pesquisas sobre a web
@@ -67,3 +76,7 @@
 [Teste se você está viciado em internet](http://www.dependenciadeinternet.com.br/teste.php)
 
 [Uso de internet nos EUA](https://flowingdata.com/projects/2015/timeuse-simulation/)
+
+[Religião e democracia](https://www.reddit.com/r/dataisbeautiful/comments/7v8quh/religion_and_the_democracy_index_oc/)
+
+[Internet durante o SB LII](https://www.reddit.com/r/dataisbeautiful/comments/7vck6u/internet_speed_during_super_bowl_52_oc/)
