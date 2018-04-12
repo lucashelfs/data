@@ -7,6 +7,8 @@
 
 [Artigo interessante (um pouco datado) da Pew](http://www.pewinternet.org/2012/07/20/the-future-of-big-data/)
 
+[DataViz && RNNs](https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e)
+
 ## Machine Learning
 [Regarding #MachineLearning and interpretability](https://twitter.com/randal_olson/status/949470532923097094)
 
@@ -82,3 +84,4 @@
 [Internet durante o SB LII](https://www.reddit.com/r/dataisbeautiful/comments/7vck6u/internet_speed_during_super_bowl_52_oc/)
 
 [Compartilhamento de notícias em mensageiros](https://aosfatos.org/noticias/leitores-desconfiam-de-noticias-recebidas-por-whatsapp-mas-nao-checam-informacoes/)
+
