@@ -25,6 +25,10 @@
 
 [Melhorando OCR](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)
 
+[Twitter Analysis](https://datascienceplus.com/twitter-analysis-with-python/)
+
+[Trump Sentiment Analysis](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-)
+
 ## Pdfs
 [Dicas para PDFs](http://jonathansoma.com/lede/foundations-2017/classes/dealing-with-pdfs/tools-and-tips/)
 
