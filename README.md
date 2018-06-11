@@ -88,4 +88,3 @@
 [Internet durante o SB LII](https://www.reddit.com/r/dataisbeautiful/comments/7vck6u/internet_speed_during_super_bowl_52_oc/)
 
 [Compartilhamento de notícias em mensageiros](https://aosfatos.org/noticias/leitores-desconfiam-de-noticias-recebidas-por-whatsapp-mas-nao-checam-informacoes/)
-
