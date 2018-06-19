@@ -25,6 +25,8 @@
 
 [Melhorando OCR](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)
 
+[Quebrar um captcha](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
+
 [Twitter Analysis](https://datascienceplus.com/twitter-analysis-with-python/)
 
 [Trump Sentiment Analysis](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-)
@@ -90,3 +92,5 @@
 [Compartilhamento de notícias em mensageiros](https://aosfatos.org/noticias/leitores-desconfiam-de-noticias-recebidas-por-whatsapp-mas-nao-checam-informacoes/)
 
 [O uso de dados de usuários de aplicativos para dates](https://chupadados.codingrights.org/suruba-de-dados/)
+
+[Memes e as eleições](https://g1.globo.com/sp/campinas-regiao/noticia/uso-de-memes-na-discussao-politica-no-brasil-tem-efeito-democratizador-aponta-pesquisa-da-unicamp.ghtml)
