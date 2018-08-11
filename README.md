@@ -98,3 +98,5 @@
 [O uso de dados de usuários de aplicativos para dates](https://chupadados.codingrights.org/suruba-de-dados/)
 
 [Memes e as eleições](https://g1.globo.com/sp/campinas-regiao/noticia/uso-de-memes-na-discussao-politica-no-brasil-tem-efeito-democratizador-aponta-pesquisa-da-unicamp.ghtml)
+
+[Transtornos de saúde mental no mundo](https://www.nexojornal.com.br/grafico/2018/07/13/Os-transtornos-de-sa%C3%BAde-mental-no-mundo-por-idade-e-g%C3%AAnero)
