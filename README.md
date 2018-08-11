@@ -63,6 +63,10 @@
 
 [Óbitos em SP](https://aquare.la/resultados-pitch-gov-sp-analise-dos-registros-de-obito-no-estado-de-sao-paulo/)
 
+[Gênero e raça na ciência brasileira](http://www.generonumero.media/grafico-genero-e-raca-na-ciencia-brasileira/)
+
+[Radiodifusão no Brasil](https://www.atlas.jor.br/radiodifusao/)
+
 ## Pesquisas sobre a web
 [Pew Internet, sempre com pesquisas interessantes](http://www.pewinternet.org) 
 
